@@ -8,6 +8,18 @@
 	</h1>
 	<center>
 	<table>
+		<tr>
+			<th width="33%">
+				<img src=qrvictor.png><br><p>
+				Victor Estival
+			</th>
+			<th width="33%">
+			</th>
+			<th width="33%">
+				<img src=qrmoy.png><br><p>
+				Moises Rivera
+			</th>
+		</tr>
 	</table>
 	</center>
 </body>
